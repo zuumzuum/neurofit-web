@@ -4,11 +4,17 @@
     "details": [
       {
         "appID": "CH6S5QS7GC.com.jampad.neurofit",
-        "paths": ["/groups/join/*"]
+        "paths": [
+          "/groups/join/*",
+          "/user/*"
+        ]
       },
       {
         "appID": "CH6S5QS7GC.com.jampad.neurofit.dev",
-        "paths": ["/groups/join/*"]
+        "paths": [
+          "/groups/join/*",
+          "/user/*"
+        ]
       }
     ]
   }
